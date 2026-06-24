@@ -73,7 +73,7 @@ Die Referenz-Implementierung nutzt [Peec AI](https://peec.ai) mit `get_brand_rep
 
 ## Author
 
-Eugen Ullrich, [eullrich.com](https://eullrich.com). GEO and AI-visibility consulting.
+Eugen Ullrich, [eullrich.com](https://eullrich.com). GEO & AI Visibility Strategist
 
 ## License
 
